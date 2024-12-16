@@ -6,7 +6,7 @@ let Favorites = ["Painting","Programming","musicianship"]
 const Expertise = Favorites[1]
 let Exprience = [1.5,"Year"]
 let GraphicTools = ["Blender"];
-let ProgrammingLanguages = [ "C#"];
+let ProgrammingLanguages = ["Python", "JavaScript", "C#", "HTML", "CSS"];
 let DevTools = ["VS", "VSCode","GitHub"];
 ```
 
